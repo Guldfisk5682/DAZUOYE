@@ -29,7 +29,7 @@ public class GameListener implements KeyListener{
 	public void keyTyped(KeyEvent e) {
 	}
 	/**
-	 * 按下: 左37 上38 右39 下40    按tab没有反应
+	 * 按下: 左37 上38 右39 下40    按tab没有反应,还可以有更多方向
 	 * 实现主角的移动
 	 */
 	@Override
