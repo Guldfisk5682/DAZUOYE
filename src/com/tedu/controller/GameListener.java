@@ -11,7 +11,7 @@ import com.tedu.manager.ElementManager;
 import com.tedu.manager.GameElement;
 
 /**
- * @说明 监听类，用于监听用户的操作 KeyListener
+ * @说明 监听类，用于监听用户操作 KeyListener
  * @author renjj
  *
  */
